@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on an optional research paper assignment
+  for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
